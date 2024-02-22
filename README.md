@@ -1,6 +1,6 @@
 # oti_baguscp
 
-A new Flutter project.
+A new Flutter project. ini adalah aplikasi gojek berdasarkan halaman depan dari aplikasi tersebut 
 
 ## Getting Started
 
